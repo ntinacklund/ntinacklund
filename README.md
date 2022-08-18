@@ -1,5 +1,8 @@
-### Hi there 👋
+## Niclas Lund
 
+Teacher at Secondary school NTI Nacka Gymnasiet in Sweden.
+
+I teach basic programming courses.
 <!--
 **ntinacklund/ntinacklund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
